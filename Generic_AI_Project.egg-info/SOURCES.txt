@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Generic_AI_Project.egg-info/PKG-INFO
+Generic_AI_Project.egg-info/SOURCES.txt
+Generic_AI_Project.egg-info/dependency_links.txt
+Generic_AI_Project.egg-info/top_level.txt
+src/__init__.py
+src/helpers.py
+src/prompt.py
